@@ -13,7 +13,7 @@
 }
 
 body {
-  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  background: white;
   min-height: 100vh;
   display: flex;
   justify-content: center;
